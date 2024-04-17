@@ -1,9 +1,2 @@
-using System;
-using System.Collections.Generic;
-
-class Program
-{
-    static void Main(string[] args)
-    {
-    }
-}
+int[] pushed = { 1, 2, 3, 4, 5 };
+int[] popped = { 4, 5, 3, 2, 1 };
